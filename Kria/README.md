@@ -1,6 +1,10 @@
 ## This readme is for chapter 5 and 6
 
-### Load the dataset - unzip cifar10 datset
+### Load the dataset - download the cifar-10 dataset
+```
+https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+```
+### Unzip cifar10 datset
 ### Open a terminal and go the cifar 10 directory
 ```
 unzip <filename>

@@ -17,6 +17,16 @@ https://www.sabihgerez.com/ut/soc/projects/gs21.html
 scp /path/to/local/directory your_username@anton.ewi.utwente.nl:/path/to/remote/destination
 
 ```
+### Load the dataset - download the cifar-10 dataset
+```
+https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+```
+### Unzip cifar10 datset
+```
+unzip <filename>
+```
+
+
 
 ### Vitis-AI github
 ```
