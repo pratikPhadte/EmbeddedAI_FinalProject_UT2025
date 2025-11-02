@@ -2,14 +2,14 @@
 
 Embedded Ai course is offered in Q2 2025 at University of Twente, this is github repository of the template code for the final project. Contents from this repo can be used to setup a baseline and then improve the model as per your choice.
 
+The services used in this project are arbitary, for examplae you can use Google Collab for training your model instead of the Utwente Jupyter Lab. You can use what is convinient for you.
+
 
 Each folder has a README.md file to refer for each chapter.
 
 
-> **This a video playlist to set up the project:**  
+> **This a video playlist to set up a baseline for the project:**  
 > [https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)
-
-
 
 
 
