@@ -1,0 +1,44 @@
+
+## This readme is for chapter 3
+### This folder contains the Vitis-ai-quantization script that does Post training quantization on the .h5 model
+
+### CAES server documentation
+```
+https://caesdoc.ewi.utwente.nl/x2go
+```
+```
+https://www.sabihgerez.com/ut/soc/projects/gs21.html
+```
+
+## STEPS
+
+### Upload the .h5 model (Generated on Utwente Jupyter Lab) on the Anton server
+```
+scp /path/to/local/directory your_username@anton.ewi.utwente.nl:/path/to/remote/destination
+
+```
+
+### Vitis-AI github
+```
+https://github.com/Xilinx/Vitis-AI/tree/master
+```
+
+### Access Vitis-AI and tensorflow 2 on XOC
+
+```
+apptainer run /remote/labware/containers/vitis-ai_2.5.sif
+```
+```
+conda activate vitis-ai-tensorflow2
+```
+
+### Do post training quantization on your model
+```
+(vitis-ai-tensorflow2) Apptainer> python vitis-ai-quantization_grayscale.py 
+```
+
+### Compile the model for DPU target
+```
+vai_c_tensorflow2 -m "<path_to_your_quantized_model>" -a "/opt/vitis_ai/compiler/arch/DPUCZDX8G/KV260/arch.json" -o "<path_to_store_your_compiled_model>" -n <compiled_model_name>
+
+```
