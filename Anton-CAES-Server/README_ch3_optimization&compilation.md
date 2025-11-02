@@ -2,14 +2,6 @@
 ## This readme is for chapter 3
 ### This folder contains the Vitis-ai-quantization script that does Post training quantization on the .h5 model
 
-### CAES server documentation
-```
-https://caesdoc.ewi.utwente.nl/x2go
-```
-```
-https://www.sabihgerez.com/ut/soc/projects/gs21.html
-```
-
 ## STEPS
 
 ### Upload the .h5 model (Generated on Utwente Jupyter Lab) on the Anton server
@@ -26,14 +18,7 @@ https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 unzip <filename>
 ```
 
-
-
-### Vitis-AI github
-```
-https://github.com/Xilinx/Vitis-AI/tree/master
-```
-
-### Access Vitis-AI and tensorflow 2 on XOC
+### Access Vitis-AI and tensorflow 2 on Anton Caes server
 
 ```
 apptainer run /remote/labware/containers/vitis-ai_2.5.sif
