@@ -24,8 +24,7 @@ make BOARD=kv260_som
 ```
 
 
-## If you want to see the DPU design, DPU bus connections, Slices used and see the generation reports, you can open vivado to inspect.
-
+## Additional: If you want to see the DPU design, DPU bus connections, Slices used and see the generation reports, you can open vivado to inspect.
 ```
 module load xilinx/vivado/2022.2
 vivado
