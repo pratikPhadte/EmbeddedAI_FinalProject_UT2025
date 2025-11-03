@@ -4,8 +4,9 @@ Embedded Ai course is offered in Q2 2025 at University of Twente, this is github
 
 The services used in this project are arbitary, for examplae you can use Google Collab for training your model instead of the Utwente Jupyter Lab. You can use what is convinient for you.
 
-
 Each folder has a README.md file to refer for each chapter.
+
+### NOTE: this repository is just a vanilla version of the project, it is up to you to implement the optimizations that you learnt from the course or you referrd from any other documentation. 
 
 
 > **This a video playlist to set up a baseline for the project:**  
@@ -26,5 +27,5 @@ https://www.sabihgerez.com/ut/soc/projects/gs21.html
 
 ### 1. NATS bench - https://github.com/D-X-Y/NATS-Bench
 ### 2. All about the DPU - https://docs.amd.com/r/en-US/pg338-dpu?tocId=3xsG16y_QFTWvAJKHbisEw
-### 3. Vitis Ai repo 0 https://github.com/Xilinx/Vitis-AI/tree/master
-
+### 3. Vitis Ai repo Documentation - https://github.com/Xilinx/Vitis-AI/tree/master ; https://docs.amd.com/r/en-US/ug1414-vitis-ai/Vitis-AI-Overview
+### 4. Algorithm optimization Tips - uantization-aware training, pruning, transfer learning and NAS

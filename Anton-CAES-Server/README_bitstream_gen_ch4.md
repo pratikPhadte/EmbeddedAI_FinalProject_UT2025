@@ -10,6 +10,7 @@ https://github.com/Xilinx/DPU-PYNQ.git
 ### Source vivado 2022.2 and XRT in your server's terminal
 ```
 module load xilinx/vivado/2022.2
+module load xilinx/vitis/2022.2
 module load xilinx/xrt
 ```
 ```
@@ -20,4 +21,12 @@ source opt/xilinx/xrt/setup.sh
 ### Go to DPU-PYNQ repo & generate the bitstream after configuring the DPU as per your need
 ```
 make BOARD=kv260_som
+```
+
+
+## If you want to see the DPU design, DPU bus connections, Slices used and see the generation reports, you can open vivado to inspect.
+
+```
+module load xilinx/vivado/2022.2
+vivado
 ```
