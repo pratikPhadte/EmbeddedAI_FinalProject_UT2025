@@ -29,16 +29,17 @@ For example:
 
 ---
 
-## Video Playlist — Baseline Setup Guide
+##  Video Playlist — Baseline Setup Guide
 
-Click the image below to watch the full setup series 
+Click the image below to watch the full setup series   
 
-[![EmbeddedAI NOV25 Playlist](https://youtu.be/6HrpetCuJoA?si=gt3k3voLxsz-2cpD.jpg)](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)   
+[![EmbeddedAI NOV25 Playlist](https://img.youtube.com/vi/6HrpetCuJoA/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)
 
 Or open directly:  
 🔗 [Watch the Playlist on YouTube](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)
 
 ---
+
 
 ## CAES Server Resources
 
