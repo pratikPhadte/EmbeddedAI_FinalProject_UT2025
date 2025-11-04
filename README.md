@@ -1,4 +1,4 @@
-# 🤖 EmbeddedAI NOV25  
+# EmbeddedAI NOV25  
 ### *Running an Image Classification Model on the Edge with Hardware–Software Co-Optimization*
 
 Welcome to the **EmbeddedAI (Q2 2025)** repository at the **University of Twente**!  
