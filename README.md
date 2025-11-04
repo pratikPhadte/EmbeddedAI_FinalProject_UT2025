@@ -61,4 +61,4 @@ Need help connecting to CAES servers? Check these out:
 
 ---
 
-## If you have any questions please reach out to the TA
+## If you have any questions/suggestions regarding the repository please reach out to me(TA)
