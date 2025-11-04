@@ -1,1 +1,1 @@
-![Descriptive alt-text](https://y.yarn.co/566cdfd2-938d-4537-93c9-060c47b9587f_text.gif)
+![Descriptive alt-text](https://y.yarn.co/9600291d-b0a3-4755-b918-5522c218d5f9_text.gif)
