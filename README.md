@@ -1,31 +1,65 @@
-# EmbeddedAI NOV25 - Running an image classification model on Edge with Hardware-software co-optimization
+# 🤖 EmbeddedAI NOV25  
+### *Running an Image Classification Model on the Edge with Hardware–Software Co-Optimization*
 
-Embedded Ai course is offered in Q2 2025 at University of Twente, this is github repository of the template code for the final project. Contents from this repo can be used to setup a baseline and then improve the model as per your choice.
+Welcome to the **EmbeddedAI (Q2 2025)** repository at the **University of Twente**!  
 
-The services used in this project are arbitary, for examplae you can use Google Collab for training your model instead of the Utwente Jupyter Lab. You can use what is convinient for you.
+This repo contains the **template code and setup** for your final project. Use it as a **baseline**, and then use your creativity to **optimize, experiment, and enhance** the model using what you’ve learned throughout the course.
 
-Each folder has a README.md file to refer for each chapter.
+---
 
-### NOTE: this repository is just a vanilla version of the project, it is up to you to implement the optimizations that you learnt from the course or you referrd from any other documentation. 
+## What’s Inside
 
+Each folder in this repository comes with its own `README.md` to guide you through that stage of the project.  
+You’ll find baseline scripts and configurations to get you started — it’s up to you to add the *magic* ✨ of optimization!
 
-> **This a video playlist to set up a baseline for the project:**  
-> [https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)
+---
 
+##  Course Flexibility
 
-
-## CAES server documentation, how to use them
-```
-https://caesdoc.ewi.utwente.nl/x2go
-```
-```
-https://www.sabihgerez.com/ut/soc/projects/gs21.html
-```
+The services and tools shown here are **suggestions**, not rules!  
+For example:
+- You can train your model in **Google Colab** 💻 instead of the UTwente JupyterLab.
 
 
-## Some reference for the project improvement
+---
 
-### 1. NATS bench - https://github.com/D-X-Y/NATS-Bench
-### 2. All about the DPU - https://docs.amd.com/r/en-US/pg338-dpu?tocId=3xsG16y_QFTWvAJKHbisEw
-### 3. Vitis Ai repo Documentation - https://github.com/Xilinx/Vitis-AI/tree/master ; https://docs.amd.com/r/en-US/ug1414-vitis-ai/Vitis-AI-Overview
-### 4. Algorithm optimization Tips - uantization-aware training, pruning, transfer learning and NAS
+## ⚠️ Important Note
+
+> This repository is a **vanilla baseline**.  
+> You’re encouraged to **implement your own hardware–software co-optimizations** using methods learned in the course or found in external documentation.
+
+---
+
+## Video Playlist — Baseline Setup Guide
+
+Click the image below to watch the full setup series 
+
+[![EmbeddedAI NOV25 Playlist](https://img.youtube.com/vi/0/0.jpg)](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)  
+*(YouTube automatically shows the first video thumbnail once you replace the `0/0.jpg` with the actual video ID)*  
+
+Or open directly:  
+🔗 [Watch the Playlist on YouTube](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)
+
+---
+
+## 🖥️ CAES Server Resources
+
+Need help connecting to CAES servers? Check these out:
+
+- [X2Go Setup Guide](https://caesdoc.ewi.utwente.nl/x2go)  
+- [General SoC Project Guide](https://www.sabihgerez.com/ut/soc/projects/gs21.html)
+
+---
+
+##  Further Reading & Optimization References
+
+| Topic | Resource |
+|-------|-----------|
+| 🧬 NAS Benchmarking | [NATS-Bench](https://github.com/D-X-Y/NATS-Bench) |
+| ⚙️ FPGA DPU Guide | [All About the DPU (PG338)](https://docs.amd.com/r/en-US/pg338-dpu?tocId=3xsG16y_QFTWvAJKHbisEw) |
+| 📘 Vitis AI Docs & Repo | [GitHub Repo](https://github.com/Xilinx/Vitis-AI/tree/master) • [Official Docs](https://docs.amd.com/r/en-US/ug1414-vitis-ai/Vitis-AI-Overview) |
+| 🧠 Optimization Tips | Quantization-aware training, pruning, transfer learning & NAS |
+
+---
+
+## If you have any questions please reach out to the TA
