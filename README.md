@@ -9,7 +9,7 @@ This repo contains the **template code and setup** for your final project. Use i
 
 ## What’s Inside
 
-Each folder in this repository comes with its own `README.md` to guide you through that stage of the project.  
+Each folder in this repository refers to each platform such as the Kria, Jupyter Notebook and the server. Each folder comes with its own `README.md` to guide you through that stage of the project.  
 You’ll find baseline scripts and configurations to get you started — it’s up to you to add the *magic* ✨ of optimization!
 
 ---
@@ -18,8 +18,7 @@ You’ll find baseline scripts and configurations to get you started — it’s 
 
 The services and tools shown here are **suggestions**, not rules!  
 For example:
-- You can train your model in **Google Colab** 💻 instead of the UTwente JupyterLab.
-
+- You can train your model in **Google Colab** instead of the UTwente JupyterLab.
 
 ---
 
@@ -34,7 +33,7 @@ For example:
 
 Click the image below to watch the full setup series 
 
-[![EmbeddedAI NOV25 Playlist](https://img.youtube.com/vi/0/0.jpg)](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)  
+[![EmbeddedAI NOV25 Playlist](https://img.youtube.com/vi/1/1.jpg)](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)  
 *(YouTube automatically shows the first video thumbnail once you replace the `0/0.jpg` with the actual video ID)*  
 
 Or open directly:  
@@ -42,7 +41,7 @@ Or open directly:
 
 ---
 
-## 🖥️ CAES Server Resources
+## CAES Server Resources
 
 Need help connecting to CAES servers? Check these out:
 
