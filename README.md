@@ -33,8 +33,7 @@ For example:
 
 Click the image below to watch the full setup series 
 
-[![EmbeddedAI NOV25 Playlist](https://img.youtube.com/vi/1/1.jpg)](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)  
-*(YouTube automatically shows the first video thumbnail once you replace the `0/0.jpg` with the actual video ID)*  
+[![EmbeddedAI NOV25 Playlist](https://youtu.be/6HrpetCuJoA?si=gt3k3voLxsz-2cpD.jpg)](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)   
 
 Or open directly:  
 🔗 [Watch the Playlist on YouTube](https://www.youtube.com/playlist?list=PLo2ZwbR4rgUSKURdz-35U5dcxfc9D-buz)
