@@ -50,7 +50,7 @@ Need help connecting to CAES servers? Check these out:
 
 ---
 
-##  Further Reading & Optimization References
+##  Further Reading & Optimization References (Not Compulsory to follow these, you may explore on your own)
 
 | Topic | Resource |
 |-------|-----------|
