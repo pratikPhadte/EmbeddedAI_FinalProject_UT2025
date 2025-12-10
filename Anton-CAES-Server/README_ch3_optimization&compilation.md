@@ -32,8 +32,13 @@ conda activate vitis-ai-tensorflow2
 (vitis-ai-tensorflow2) Apptainer> python vitis-ai-quantization_grayscale.py 
 ```
 
-### Compile the model for DPU target
+### Compile the model for default DPU target
 ```bash
 vai_c_tensorflow2 -m "<path_to_your_quantized_model>" -a "/opt/vitis_ai/compiler/arch/DPUCZDX8G/KV260/arch.json" -o "<path_to_store_your_compiled_model>" -n <compiled_model_name>
 
+```
+
+### Compile the model for YOUR DPU target
+```bash
+vai_c_tensorflow2 -m "<path_to_your_quantized_model>" -a "<path_to_your_arch_DPU_arch.json_which_you_make" -o "<path_to_store_your_compiled_model>" -n <compiled_model_name>
 ```
