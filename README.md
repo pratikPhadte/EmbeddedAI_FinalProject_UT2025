@@ -57,6 +57,7 @@ Need help connecting to CAES servers? Check these out:
 | 🧬 NAS Benchmarking | [NATS-Bench](https://github.com/D-X-Y/NATS-Bench) |
 | ⚙️ FPGA DPU Guide | [All About the DPU (PG338)](https://docs.amd.com/r/en-US/pg338-dpu?tocId=3xsG16y_QFTWvAJKHbisEw) |
 | 📘 Vitis AI Docs & Repo | [GitHub Repo](https://github.com/Xilinx/Vitis-AI/tree/master) • [Official Docs](https://docs.amd.com/r/en-US/ug1414-vitis-ai/Vitis-AI-Overview) |
+| Vitis Xilinx Offical Documentation | [LINK](https://xilinx.github.io/xup-vitis-ai-tutorial/index.html) |
 | 🧠 Optimization Tips | Quantization-aware training, pruning, transfer learning & NAS |
 
 ---
